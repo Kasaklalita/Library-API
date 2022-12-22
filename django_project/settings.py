@@ -29,6 +29,8 @@ ALLOWED_HOSTS = ["*", ""]
 
 ALLOWED_HOST = ['*']
 
+CORS_ORIGIN_ALLOW_ALL = True
+
 
 # Application definition
 
